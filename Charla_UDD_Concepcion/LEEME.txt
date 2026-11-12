@@ -1,0 +1,15 @@
+Charla UDD Concepción — Transformación digital en salud e IA (12 nov 2026)
+
+Charla_UDD_Concepcion_v1.html   Presentación V1, autocontenida. Abrir en Chrome, F = pantalla completa, flechas = avanzar.
+                                Lámina 6 reproduce tres videos de YouTube a la vez (requiere internet).
+recortes/                       Capturas de prensa y prompts (00 prompts, 01-04 problemas, 05-07 promesas IA, 08-10 sesgos, 11 sandbox).
+figuras_banco_mundial/          Figuras 42-45 del Anexo C de Digital-in-Health (Banco Mundial, 2023) y las páginas completas 196-198 del PDF.
+
+Guion de contenido (Claude Doc): https://claude.ai/artifact/TnGADMXcnhSirr6yX6AKr6
+
+Videos
+- BBC News, AI tool spots cancers missed by doctors: https://www.youtube.com/watch?v=D3oRN5JNMWs
+- BBC News, One Survivor's AI Breakthrough Predicts Cancer Years Ahead (Regina Barzilay, MIRAI): https://www.youtube.com/watch?v=-0qOzx3URO4
+- BBC News, Can AI-powered eye scans help identify diseases?: https://www.youtube.com/watch?v=Zh2lyMmGMQM
+- 24 Horas TVN, IA detecta lesiones invisibles de cáncer de mama: https://www.youtube.com/watch?v=zU5XJp2Sz7c
+- 24 Horas TVN, IA chilena revoluciona la atención del sistema de salud: https://www.youtube.com/watch?v=pIHCX6Mp7kc
